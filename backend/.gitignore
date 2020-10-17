@@ -1,0 +1,6 @@
+yarn.lock
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+*.sqlite
+node_modules/
